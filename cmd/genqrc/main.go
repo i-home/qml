@@ -117,6 +117,7 @@ func run() error {
 				return err
 			}
 			rp.Add(filepath.ToSlash(path), data)
+			fmt.Println(path)
 			return nil
 		})
 		if err != nil {
