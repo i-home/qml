@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/qml.v1"
 	"os"
+
+	"github.com/i-home/qml"
 )
 
 func main() {

@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/qml.v1"
 	"image"
 	"image/png"
 	"os"
+
+	"github.com/i-home/qml"
 )
 
 func main() {

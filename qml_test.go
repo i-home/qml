@@ -15,11 +15,12 @@ import (
 	"testing"
 	"time"
 
-	. "gopkg.in/check.v1"
-	"gopkg.in/qml.v1"
-	"gopkg.in/qml.v1/cpptest"
-	"gopkg.in/qml.v1/gl/2.0"
 	"path/filepath"
+
+	"github.com/i-home/qml"
+	"github.com/i-home/qml/cpptest"
+	"github.com/i-home/qml/gl/2.0"
+	. "gopkg.in/check.v1"
 )
 
 func init() { qml.SetupTesting() }

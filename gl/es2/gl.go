@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"gopkg.in/qml.v1/gl/glbase"
+	"github.com/i-home/qml/gl/glbase"
 )
 
 // API returns a value that offers methods matching the OpenGL version ES2 API.

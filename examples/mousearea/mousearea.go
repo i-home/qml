@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"gopkg.in/qml.v1"
+	"github.com/i-home/qml"
 )
 
 const test_qml = `

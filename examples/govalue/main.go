@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gopkg.in/qml.v1"
+	"github.com/i-home/qml"
 )
 
 func main() {
